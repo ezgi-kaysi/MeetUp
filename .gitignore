@@ -1,0 +1,13 @@
+bin
+obj
+.vscode
+.DS_Store
+appsettings.json
+*.db
+wwwroot
+/.vs/Meetup/v16
+/.vs/Reactivities/DesignTimeBuild
+/.vs/Reactivities/v16/TestStore/1/000-0000.testlog
+/.vs/Reactivities/v16/TestStore/1/testlog.manifest
+/.vs/Meetup/DesignTimeBuild
+/.vs/Meetup/config
